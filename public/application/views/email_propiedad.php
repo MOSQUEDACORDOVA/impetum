@@ -420,8 +420,16 @@
                   <!-- Body content -->
                   <tr>
                     <td class="content-cell">
-                      <p style="color: black;">Hola, gracias por contactarnos, responderemos a su mensaje lo antes posible.<br><br></p>
-					 
+                      <p style="color: black;">Gracias por solicitar información de:  <b><?=$titulo?></b>, en breve uno de nuestros agentes le contactará.<br><br></p>
+					  
+                      <p style="color: black;">
+						<img src="<?=$url;?>/imagenes_propiedad/<?=$id;?>/<?=$portada;?>" style="max-width:400px;width:100%;"><br><br><br>
+						 PRECIO:  <b><?=$precio?></b><br><br>
+                      </p>
+                      <p style="color: black;">
+						  <?=$descripcion_intro?><br>
+						  <?=$ubicacion;?><br><br>
+					  </p>
 					  <p style="color: black;">  
 							Su información proporcionada:<br><br>
 							Nombre: <?=$name?><br>
@@ -430,7 +438,7 @@
 							Mensaje: <?=$mensaje?><br><br>
 					  
 							<span style="color: rgb(0,0,0);font-weight: bold;">IMPETUM Inmobiliaria</span><br>
-							<b>Más de 20 años de experiencia inmobiliaria en México</b><br>
+							<b>Más de 25 años de experiencia inmobiliaria en México</b><br>
 							T. 55-8525-0647 & 55-3058-9119<br>
 	                      <a style="color: rgb(0,0,0);" href="https://www.impetum.com.mx">www.impetum.com.mx</a><br><br>
 					  </p>

@@ -93,6 +93,7 @@
 		<div id="dinamycContent">
 			<!-- ========== CONTENIDO ANIDADO DINAMICO ========== -->
 		    <? $this->load->view($vista_contenido); ?>
+			
 		</div>
 		
 		<div id="footer-general">

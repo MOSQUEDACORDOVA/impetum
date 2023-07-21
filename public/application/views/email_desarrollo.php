@@ -439,7 +439,7 @@
 							Mensaje: <?=$mensaje?><br><br>
 					  
 							<span style="color: rgb(0,0,0);font-weight: bold;">IMPETUM Inmobiliaria</span><br>
-							<b>Más de 20 años de experiencia inmobiliaria en México</b><br>
+							<b>Más de 25 años de experiencia inmobiliaria en México</b><br>
 							T. 55-8525-0647 & 55-3058-9119<br>
 	                      <a style="color: rgb(0,0,0);" href="https://www.impetum.com.mx">www.impetum.com.mx</a><br><br>
 					  </p>

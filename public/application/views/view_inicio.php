@@ -3,7 +3,7 @@
 	<img class="hidden-xs" src="<?php echo base_url('site-img/Home.jpg');?>" style="width: 100%;" draggable="false">
 	<img class="visible-xs" src="<?php echo base_url('site-img/Home_mov.jpg');?>" style="width: 100%;" draggable="false">
 	<div class="tituloPrincipalHome">
-		Mas de 20 años de<br class="visible-xs"> experiencia<br class="hidden-xs">
+		Mas de 25 años de<br class="visible-xs"> experiencia<br class="hidden-xs">
 		inmobiliaria<br class="visible-xs"> en México
 		<div style="width: 100%;height:35px;"></div>
 		<a href="<?php echo base_url('propiedades');?>" class="btn" id="verPropiedades" style="line-height: 32px;">BUSCAR PROPIEDADES</a><div class="visible-xs" style="width: 100%;height: 30px;"></div><span class="hidden-xs">&nbsp;&nbsp;</span><a href="<?php echo base_url('desarrollos');?>" class="btn" style="line-height: 32px;" id="verDesarrollos">VER DESARROLLOS </a>

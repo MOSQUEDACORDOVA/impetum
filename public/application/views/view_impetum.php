@@ -4,12 +4,12 @@
 	<hr class="redRule">&nbsp;&nbsp;&nbsp;&nbsp;IMPETUM&nbsp;&nbsp;&nbsp;&nbsp;<hr class="redRule">
 </div>
 <div style="width: 100%;text-align: center;">
-	<span class="subtituloImpetum">Más de 20 años de experiencia<br class="visible-xs"> inmobiliaria en México</span>
+	<span class="subtituloImpetum">Más de 25 años de experiencia<br class="visible-xs"> inmobiliaria en México</span>
 </div>
 <div style="width: 100%;height: 60px;"></div>
 <div class="contenedorTextos">
 	<div class="textosGenericos">
-		Somos una inmobiliaria mexicana con amplia trayectoria y más de 20 años de experiencia, especializados en bienes inmuebles residenciales, departamentos y condominios, así como bienes raíces comerciales y grandes edificios.
+		Somos una inmobiliaria mexicana con amplia trayectoria y más de 25 años de experiencia, especializados en bienes inmuebles residenciales, departamentos y condominios, así como bienes raíces comerciales y grandes edificios.
 	</div>
 		<div class="hidden-xs" style="width: 100%;height:80px;"></div>
 	<div class="visible-xs" style="width: 100%;height:60px;"></div>
