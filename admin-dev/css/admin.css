@@ -1,0 +1,141 @@
+header, main, footer {
+    padding-left: 300px;
+}
+
+.sidenav .logo-view {
+    position: relative;
+    padding: 150px 32px 0;
+    margin-bottom: 8px;
+}
+
+.sidenav li>a>i, .sidenav li>a>[class^="mdi-"], .sidenav li>a li>a>[class*="mdi-"], .sidenav li>a>i.material-icons {
+    float: left;
+    height: 48px;
+    line-height: 48px;
+    margin: 0 32px 0 0;
+    width: 24px;
+}
+
+.sidenav .logo-view .background{
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
+
+/* resize images */
+.logo-view img {
+    width: 100%;
+
+}
+
+.pretty-form fieldset{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    margin: 0px 0px 10px 0px;
+    /*border: 1px solid #FFD2D2;*/
+    border: 1px solid #bbdefb;
+    padding: 20px;
+    /*background: #FFF4F4;*/
+    background: #FFFFFF;
+    box-shadow: inset 0px 0px 15px #e3f2fd;
+    -moz-box-shadow: inset 0px 0px 15px #e3f2fd;
+    -webkit-box-shadow: inset 0px 0px 15px #e3f2fd;
+}
+
+@media only screen and (max-width : 992px) {
+    header, main, footer {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (min-width: 601px){
+    .container {
+        width: 85% !important;
+    }
+
+    .modal{
+        width: 75%;
+    }
+}
+
+.list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+.list-inline > li {
+  display: inline-block;
+
+  width:22%;
+  height: 130px;
+}
+
+.list-inline > li img{
+    width: 100%;
+    vertical-align: middle;
+}
+
+.list-inline i {
+    -webkit-transition: opacity .2s;
+    transition: opacity .2s;
+    opacity: 0;
+    display: block;
+    cursor: pointer;
+    color: #c00;
+    position: absolute;
+    font-style: normal;
+}
+
+.list-inline > li:hover i {
+    opacity: 1;
+}
+
+.list-inline li{
+    margin: 5px;
+}
+
+#catalogo-propiedades .btn {
+    padding: 0 1rem !important;
+}
+
+#catalogo-propiedades img, #busqueda-autos img{
+    width: 100%;
+}
+
+.collection .custom-item {
+    line-height: 1.0rem !important;
+    height: auto !important;
+    padding: 15px 20px !important;
+}
+
+.collection-item:hover{
+    background-color: #eeeeee;
+}
+
+.modal{
+    max-height: 85% !important;
+}
+
+.js-remove {
+    -webkit-transition: opacity .2s;
+    transition: opacity .2s;
+    display: block;
+    cursor: pointer;
+    color: #c00;
+    font-style: normal;
+    float: right;
+}
+
+#preview{
+    height: 100%;
+    max-width: : 220px;
+}
+
+.custom-progress { position:relative; width:400px; border: 1px solid #ddd; padding: 1px; border-radius: 3px; }
+.bar { background-color: #B4F5B4; width:0%; height:20px; border-radius: 3px; }
+.percent { position:absolute; display:inline-block; top:2px; left:48%; }
