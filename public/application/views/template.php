@@ -116,7 +116,6 @@
 			<br><br>
 			<span onclick="up()" style="cursor:pointer;font-family: 'Muli';font-size: 11px;color: white;">volver arriba</span>
 			<div style="width: 100%;height: 40px;"></div>
-			<a href="https://www.alternativasc.com" target="_blank"><img src="<?php echo base_url('site-img/AlterNativa_logo.svg');?>" style="width: 112px;"></a>
 			<div style="background: rgb(217, 39, 65);height: 4px;width: 100%;position: absolute;bottom: 0px;"></div>
 
 			<!--Jquery-->
