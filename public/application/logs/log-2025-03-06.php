@@ -701,3 +701,101 @@ INFO - 2025-03-06 15:30:38 --> Helper loaded: validacion_helper
 INFO - 2025-03-06 15:30:38 --> Model "Inicio_model" initialized
 INFO - 2025-03-06 15:30:38 --> Final output sent to browser
 DEBUG - 2025-03-06 15:30:38 --> Total execution time: 0.0401
+INFO - 2025-03-06 15:31:30 --> Config Class Initialized
+INFO - 2025-03-06 15:31:30 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:31:30 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:31:30 --> URI Class Initialized
+INFO - 2025-03-06 15:31:30 --> Router Class Initialized
+INFO - 2025-03-06 15:31:30 --> Output Class Initialized
+INFO - 2025-03-06 15:31:30 --> Security Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:31:30 --> Input Class Initialized
+INFO - 2025-03-06 15:31:30 --> Language Class Initialized
+INFO - 2025-03-06 15:31:30 --> Loader Class Initialized
+INFO - 2025-03-06 15:31:30 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:31:30 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:31:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:31:30 --> Controller Class Initialized
+INFO - 2025-03-06 15:31:30 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:31:30 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:31:30 --> File loaded: /home/forge/impetum.mx/public/application/views/view_inicio.php
+INFO - 2025-03-06 15:31:30 --> File loaded: /home/forge/impetum.mx/public/application/views/template.php
+INFO - 2025-03-06 15:31:30 --> Final output sent to browser
+DEBUG - 2025-03-06 15:31:30 --> Total execution time: 0.0100
+INFO - 2025-03-06 15:31:30 --> Config Class Initialized
+INFO - 2025-03-06 15:31:30 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:31:30 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:31:30 --> URI Class Initialized
+INFO - 2025-03-06 15:31:30 --> Router Class Initialized
+INFO - 2025-03-06 15:31:30 --> Output Class Initialized
+INFO - 2025-03-06 15:31:30 --> Security Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:31:30 --> Input Class Initialized
+INFO - 2025-03-06 15:31:30 --> Language Class Initialized
+INFO - 2025-03-06 15:31:30 --> Loader Class Initialized
+INFO - 2025-03-06 15:31:30 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:31:30 --> Database Driver Class Initialized
+INFO - 2025-03-06 15:31:30 --> Config Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:31:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:31:30 --> Controller Class Initialized
+INFO - 2025-03-06 15:31:30 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:31:30 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:31:30 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:31:30 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:31:30 --> URI Class Initialized
+INFO - 2025-03-06 15:31:30 --> Router Class Initialized
+INFO - 2025-03-06 15:31:30 --> Output Class Initialized
+INFO - 2025-03-06 15:31:30 --> Security Class Initialized
+DEBUG - 2025-03-06 15:31:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:31:30 --> Input Class Initialized
+INFO - 2025-03-06 15:31:30 --> Language Class Initialized
+INFO - 2025-03-06 15:31:30 --> Loader Class Initialized
+INFO - 2025-03-06 15:31:30 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:31:30 --> Database Driver Class Initialized
+INFO - 2025-03-06 15:31:30 --> Final output sent to browser
+DEBUG - 2025-03-06 15:31:30 --> Total execution time: 0.0113
+DEBUG - 2025-03-06 15:31:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:31:30 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:31:30 --> Controller Class Initialized
+INFO - 2025-03-06 15:31:30 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:31:30 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:31:30 --> Final output sent to browser
+DEBUG - 2025-03-06 15:31:30 --> Total execution time: 0.0129
+INFO - 2025-03-06 15:31:35 --> Config Class Initialized
+INFO - 2025-03-06 15:31:35 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:31:35 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:31:35 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:31:35 --> URI Class Initialized
+DEBUG - 2025-03-06 15:31:35 --> No URI present. Default controller set.
+INFO - 2025-03-06 15:31:35 --> Router Class Initialized
+INFO - 2025-03-06 15:31:35 --> Output Class Initialized
+INFO - 2025-03-06 15:31:35 --> Security Class Initialized
+DEBUG - 2025-03-06 15:31:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:31:35 --> Input Class Initialized
+INFO - 2025-03-06 15:31:35 --> Language Class Initialized
+INFO - 2025-03-06 15:31:35 --> Loader Class Initialized
+INFO - 2025-03-06 15:31:35 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:31:35 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:31:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:31:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:31:35 --> Controller Class Initialized
+INFO - 2025-03-06 15:31:35 --> File loaded: /home/forge/impetum.mx/public/application/views/splash.php
+INFO - 2025-03-06 15:31:35 --> Final output sent to browser
+DEBUG - 2025-03-06 15:31:35 --> Total execution time: 0.0056
+INFO - 2025-03-06 15:31:39 --> Config Class Initialized
+INFO - 2025-03-06 15:31:39 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:31:39 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:31:39 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:31:39 --> URI Class Initialized
+INFO - 2025-03-06 15:31:39 --> Router Class Initialized
+INFO - 2025-03-06 15:31:39 --> Output Class Initialized
+INFO - 2025-03-06 15:31:39 --> Security Class Initialized
+DEBUG - 2025-03-06 15:31:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:31:39 --> Input Class Initialized
+INFO - 2025-03-06 15:31:39 --> Language Class Initialized
+ERROR - 2025-03-06 15:31:39 --> 404 Page Not Found: Faviconico/index
