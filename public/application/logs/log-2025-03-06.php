@@ -799,3 +799,160 @@ DEBUG - 2025-03-06 15:31:39 --> Global POST, GET and COOKIE data sanitized
 INFO - 2025-03-06 15:31:39 --> Input Class Initialized
 INFO - 2025-03-06 15:31:39 --> Language Class Initialized
 ERROR - 2025-03-06 15:31:39 --> 404 Page Not Found: Faviconico/index
+INFO - 2025-03-06 15:33:35 --> Config Class Initialized
+INFO - 2025-03-06 15:33:35 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:33:35 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:33:35 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:33:35 --> URI Class Initialized
+DEBUG - 2025-03-06 15:33:35 --> No URI present. Default controller set.
+INFO - 2025-03-06 15:33:35 --> Router Class Initialized
+INFO - 2025-03-06 15:33:35 --> Output Class Initialized
+INFO - 2025-03-06 15:33:35 --> Security Class Initialized
+DEBUG - 2025-03-06 15:33:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:33:35 --> Input Class Initialized
+INFO - 2025-03-06 15:33:35 --> Language Class Initialized
+INFO - 2025-03-06 15:33:35 --> Loader Class Initialized
+INFO - 2025-03-06 15:33:35 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:33:35 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:33:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:33:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:33:35 --> Controller Class Initialized
+INFO - 2025-03-06 15:33:35 --> File loaded: /home/forge/impetum.mx/public/application/views/splash.php
+INFO - 2025-03-06 15:33:35 --> Final output sent to browser
+DEBUG - 2025-03-06 15:33:35 --> Total execution time: 0.0083
+INFO - 2025-03-06 15:33:48 --> Config Class Initialized
+INFO - 2025-03-06 15:33:48 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:33:48 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:33:48 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:33:48 --> URI Class Initialized
+DEBUG - 2025-03-06 15:33:48 --> No URI present. Default controller set.
+INFO - 2025-03-06 15:33:48 --> Router Class Initialized
+INFO - 2025-03-06 15:33:48 --> Output Class Initialized
+INFO - 2025-03-06 15:33:48 --> Security Class Initialized
+DEBUG - 2025-03-06 15:33:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:33:48 --> Input Class Initialized
+INFO - 2025-03-06 15:33:48 --> Language Class Initialized
+INFO - 2025-03-06 15:33:48 --> Loader Class Initialized
+INFO - 2025-03-06 15:33:48 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:33:48 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:33:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:33:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:33:48 --> Controller Class Initialized
+INFO - 2025-03-06 15:33:48 --> File loaded: /home/forge/impetum.mx/public/application/views/splash.php
+INFO - 2025-03-06 15:33:48 --> Final output sent to browser
+DEBUG - 2025-03-06 15:33:48 --> Total execution time: 0.0067
+INFO - 2025-03-06 15:35:15 --> Config Class Initialized
+INFO - 2025-03-06 15:35:15 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:35:15 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:35:15 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:35:15 --> URI Class Initialized
+INFO - 2025-03-06 15:35:15 --> Router Class Initialized
+INFO - 2025-03-06 15:35:15 --> Output Class Initialized
+INFO - 2025-03-06 15:35:15 --> Security Class Initialized
+DEBUG - 2025-03-06 15:35:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:35:15 --> Input Class Initialized
+INFO - 2025-03-06 15:35:15 --> Language Class Initialized
+INFO - 2025-03-06 15:35:15 --> Loader Class Initialized
+INFO - 2025-03-06 15:35:15 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:35:16 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:35:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:35:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:35:16 --> Controller Class Initialized
+INFO - 2025-03-06 15:35:16 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:35:16 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:35:16 --> Helper loaded: json_helper
+INFO - 2025-03-06 15:35:16 --> File loaded: /home/forge/impetum.mx/public/application/views/template_white.php
+INFO - 2025-03-06 15:35:16 --> Final output sent to browser
+DEBUG - 2025-03-06 15:35:16 --> Total execution time: 0.0162
+INFO - 2025-03-06 15:35:18 --> Config Class Initialized
+INFO - 2025-03-06 15:35:18 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:35:18 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:35:18 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:35:18 --> URI Class Initialized
+INFO - 2025-03-06 15:35:18 --> Router Class Initialized
+INFO - 2025-03-06 15:35:18 --> Output Class Initialized
+INFO - 2025-03-06 15:35:18 --> Security Class Initialized
+DEBUG - 2025-03-06 15:35:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:35:18 --> Input Class Initialized
+INFO - 2025-03-06 15:35:18 --> Language Class Initialized
+INFO - 2025-03-06 15:35:18 --> Loader Class Initialized
+INFO - 2025-03-06 15:35:18 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:35:18 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:35:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:35:18 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:35:18 --> Controller Class Initialized
+INFO - 2025-03-06 15:35:18 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:35:18 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:35:18 --> Helper loaded: json_helper
+INFO - 2025-03-06 15:35:18 --> File loaded: /home/forge/impetum.mx/public/application/views/template_white.php
+INFO - 2025-03-06 15:35:18 --> Final output sent to browser
+DEBUG - 2025-03-06 15:35:18 --> Total execution time: 0.0084
+INFO - 2025-03-06 15:35:22 --> Config Class Initialized
+INFO - 2025-03-06 15:35:22 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:35:22 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:35:22 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:35:22 --> URI Class Initialized
+INFO - 2025-03-06 15:35:22 --> Router Class Initialized
+INFO - 2025-03-06 15:35:22 --> Output Class Initialized
+INFO - 2025-03-06 15:35:22 --> Security Class Initialized
+DEBUG - 2025-03-06 15:35:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:35:22 --> Input Class Initialized
+INFO - 2025-03-06 15:35:22 --> Language Class Initialized
+INFO - 2025-03-06 15:35:22 --> Loader Class Initialized
+INFO - 2025-03-06 15:35:22 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:35:22 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:35:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:35:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:35:22 --> Controller Class Initialized
+INFO - 2025-03-06 15:35:22 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:35:22 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:35:22 --> Helper loaded: json_helper
+INFO - 2025-03-06 15:35:22 --> File loaded: /home/forge/impetum.mx/public/application/views/template_white.php
+INFO - 2025-03-06 15:35:22 --> Final output sent to browser
+DEBUG - 2025-03-06 15:35:22 --> Total execution time: 0.0064
+INFO - 2025-03-06 15:35:59 --> Config Class Initialized
+INFO - 2025-03-06 15:35:59 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:35:59 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:35:59 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:35:59 --> URI Class Initialized
+INFO - 2025-03-06 15:35:59 --> Router Class Initialized
+INFO - 2025-03-06 15:35:59 --> Output Class Initialized
+INFO - 2025-03-06 15:35:59 --> Security Class Initialized
+DEBUG - 2025-03-06 15:35:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:35:59 --> Input Class Initialized
+INFO - 2025-03-06 15:35:59 --> Language Class Initialized
+INFO - 2025-03-06 15:35:59 --> Loader Class Initialized
+INFO - 2025-03-06 15:35:59 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:35:59 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:35:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:35:59 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:35:59 --> Controller Class Initialized
+INFO - 2025-03-06 15:35:59 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:35:59 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:35:59 --> Helper loaded: json_helper
+INFO - 2025-03-06 15:35:59 --> File loaded: /home/forge/impetum.mx/public/application/views/template_white.php
+INFO - 2025-03-06 15:35:59 --> Final output sent to browser
+DEBUG - 2025-03-06 15:35:59 --> Total execution time: 0.0078
+INFO - 2025-03-06 15:36:07 --> Config Class Initialized
+INFO - 2025-03-06 15:36:07 --> Hooks Class Initialized
+DEBUG - 2025-03-06 15:36:07 --> UTF-8 Support Enabled
+INFO - 2025-03-06 15:36:07 --> Utf8 Class Initialized
+INFO - 2025-03-06 15:36:07 --> URI Class Initialized
+INFO - 2025-03-06 15:36:07 --> Router Class Initialized
+INFO - 2025-03-06 15:36:07 --> Output Class Initialized
+INFO - 2025-03-06 15:36:07 --> Security Class Initialized
+DEBUG - 2025-03-06 15:36:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-03-06 15:36:07 --> Input Class Initialized
+INFO - 2025-03-06 15:36:07 --> Language Class Initialized
+INFO - 2025-03-06 15:36:07 --> Loader Class Initialized
+INFO - 2025-03-06 15:36:07 --> Helper loaded: url_helper
+INFO - 2025-03-06 15:36:07 --> Database Driver Class Initialized
+DEBUG - 2025-03-06 15:36:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-03-06 15:36:07 --> Session: Class initialized using 'files' driver.
+INFO - 2025-03-06 15:36:07 --> Controller Class Initialized
+INFO - 2025-03-06 15:36:07 --> Helper loaded: validacion_helper
+INFO - 2025-03-06 15:36:07 --> Model "Inicio_model" initialized
+INFO - 2025-03-06 15:36:07 --> Helper loaded: json_helper
+INFO - 2025-03-06 15:36:07 --> File loaded: /home/forge/impetum.mx/public/application/views/template_white.php
+INFO - 2025-03-06 15:36:07 --> Final output sent to browser
+DEBUG - 2025-03-06 15:36:07 --> Total execution time: 0.0122
